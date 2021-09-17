@@ -6,7 +6,7 @@
 
   <p align="center">
     Um site pessoal estático feito para mostrar projetos recentes. URL do Site / Demo: 
-    <a href="https://home.tashima.tech">https://home.tashima.tech</a>
+    <a href="https://home-livid.vercel.app/">https://home-livid.vercel.app/</a>
     <br />
     <br />
     <a href="https://home.tashima.tech">Sobre Mim</a>
